@@ -16,6 +16,10 @@ public class NewMain {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        saludar();
+    }
+    
+    public static void saludar(){
         System.out.println("Hola a todos los de DAM");
     }
     
